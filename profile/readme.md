@@ -1,6 +1,6 @@
 # 🌍 ERPNext Africa - L'écosystème de la souveraineté numérique
 
-Bienvenue sur le hub officiel de **ERPNext Africa**, une initiative portée par **[HALFWARE]*.
+Bienvenue sur le hub officiel de **ERPNext Africa**, une initiative portée par l'équipe HALFWARE.
 
 Nous croyons en un continent africain autonome, capable de construire sa propre infrastructure digitale. Notre mission est de transformer ERPNext en un levier de croissance puissant, sécurisé et adapté aux réalités locales.
 
